@@ -37,7 +37,10 @@ All code (HTML, CSS, JavaScript) is written in a single self-contained HTML file
 3. Choose two dates and click "Calculate Days".
 4. View the difference in days, weeks, months, and years.
 
-## 📸 Screenshots (./screenshots/homepage.png)
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](./screenshots/homepage.png)
 
 
 
